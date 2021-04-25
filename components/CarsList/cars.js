@@ -1,3 +1,5 @@
+// Dummy data to pass as an array
+
 export default [{
   name: 'Model S',
   tagline: 'Starting at $69,420',
